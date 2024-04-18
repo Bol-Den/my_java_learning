@@ -1,4 +1,4 @@
-package Hello_01;
+package Lesson_01.Hello_01;
 
 public class HelloDeniss {
     public static void main(String[] args) {
