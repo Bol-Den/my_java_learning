@@ -3,11 +3,11 @@ package Variables_02;
 public class TotalSum {
     public static void main(String[] args) {
 
-        int FirstValue = 25;
-        int SecondValue = 11;
-        int Result = FirstValue + SecondValue ;
+        int firstValue = 25;
+        int secondValue = 11;
+        int result = firstValue + secondValue ;
 
-        System.out.println(Result);
+        System.out.println(result);
 
     }
 }
