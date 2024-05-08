@@ -5,7 +5,7 @@ class InterestRate {
     public InterestRate(){}
 
     public int calculateInterestRate(int rating) {
-        int interestRate = 0;
+        int interestRate;
 
         if (rating > 700) {
           interestRate = 5;
