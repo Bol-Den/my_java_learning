@@ -8,9 +8,6 @@ class InterestRateTest {
          test.testFivePercentRate();
     }
 
-
-    public InterestRateTest() {}
-
     public void testFivePercentRate() {
         int realRating = 725;
         int realRate = 5;

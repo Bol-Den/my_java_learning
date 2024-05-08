@@ -12,9 +12,6 @@ class StudentAppTest {
 
     }
 
-
-    public StudentAppTest() {}
-
     public void gradeA() {
         // input numbers to test
         int realScore = 95;

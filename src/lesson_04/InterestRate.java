@@ -2,8 +2,6 @@ package lesson_04;
 
 class InterestRate {
 
-    public InterestRate(){}
-
     public int calculateInterestRate(int rating) {
         int interestRate;
 
