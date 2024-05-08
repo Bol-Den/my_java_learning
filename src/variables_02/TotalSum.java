@@ -1,4 +1,4 @@
-package Variables_02;
+package variables_02;
 
 public class TotalSum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Logical_04;
+package logical_04;
 
 import java.util.Scanner;
 

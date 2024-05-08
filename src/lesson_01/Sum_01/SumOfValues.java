@@ -1,4 +1,4 @@
-package Lesson_01.Sum_01;
+package lesson_01.Sum_01;
 
 public class SumOfValues {
      public static void main(String[] args) {
