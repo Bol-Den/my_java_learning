@@ -1,7 +1,5 @@
 package lesson_05;
 
-import java.math.BigDecimal;
-
 class Bank {
 
     private String account;
