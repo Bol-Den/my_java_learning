@@ -1,4 +1,4 @@
-package logical_04;
+package lesson_03;
 
 class Student {
 
