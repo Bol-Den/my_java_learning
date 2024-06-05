@@ -9,5 +9,7 @@ class DogApp {
         borbos.resetAge();
         System.out.println(borbos.getAge());
 
+        System.out.println( new DogAction().dogRun());
+
     }
 }
