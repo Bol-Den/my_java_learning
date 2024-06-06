@@ -1,9 +1,9 @@
 package lesson_04;
 
-class InterestRateTest {
+class InterestRateTests {
 
     public static void main(String[] args) {
-         InterestRateTest test = new InterestRateTest();
+         InterestRateTests test = new InterestRateTests();
 
          test.testFivePercentRate();
          test.testSevenPercentRate();
