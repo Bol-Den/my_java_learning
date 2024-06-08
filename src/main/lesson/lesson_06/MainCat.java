@@ -4,7 +4,7 @@ class MainCat {
 
     public static void main(String[] args) {
 
-        BlackCat blackCat = new BlackCat("johns", "pink", 25, "funnys");
+        BlackCat blackCat = new BlackCat("john", "pink", 25, "serious");
 
         String blackCatName = blackCat.getName();
         System.out.println(blackCatName);
